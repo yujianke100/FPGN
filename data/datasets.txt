@@ -1,0 +1,2 @@
+http://snap.stanford.edu/jodie/wikipedia.csv
+http://snap.stanford.edu/jodie/reddit.csv
